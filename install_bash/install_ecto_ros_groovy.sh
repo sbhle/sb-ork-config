@@ -6,4 +6,7 @@ sudo apt-get install ros-groovy-object-recognition-reconstruct*
 sudo apt-get install ros-groovy-object-recognition-renderer
 sudo apt-get install ros-groovy-object-recognition-capture
 
-echo "Feel free to install ORK pipelines now!"
+echo "Install tod, linemod and transparent object pipeline ..."
+sudo apt-get install ros-groovy-object-recognition-tod
+sudo apt-get install ros-groovy-object-recognition-linemod
+sudo apt-get install ros-groovy-object-recognition-transparent*
